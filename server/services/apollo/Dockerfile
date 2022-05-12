@@ -1,4 +1,4 @@
-FROM node:10.15.0
+FROM node:10.24.0
 ARG VERSION
 ENV SERVER_VERSION=latest
 
