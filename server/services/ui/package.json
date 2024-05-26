@@ -24,7 +24,7 @@
     "d3-zoom": "^1.8.3",
     "dagre-d3": "^0.6.4",
     "graphql": "^14.6.0",
-    "js-beautify": "^1.10.3",
+    "js-beautify": "^1.14.10",
     "lodash.debounce": "^4.0.8",
     "lodash.difference": "^4.5.0",
     "lodash.range": "^3.2.0",
