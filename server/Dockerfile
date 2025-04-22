@@ -3,7 +3,7 @@
 
 # syntax=docker/dockerfile:1.0.0-experimental
 
-FROM python:3.7
+FROM python:3.13.3
 ARG VERSION
 ENV SERVER_VERSION=${VERSION}
 
