@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "apexcharts": "npm:znicholasbrown-apexcharts@^3.10.1",
-    "codemirror": "^5.50.2",
+    "codemirror": "^6.0.0",
     "codemirror-graphql": "^0.11.6",
     "cronstrue": "^1.91.0",
     "d3": "^5.15.0",
